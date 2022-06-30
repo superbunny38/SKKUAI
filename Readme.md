@@ -26,6 +26,8 @@
 - Cutmix
 - Mixup
 - Combinations of augmentation methods (kornia & pytorch)
+
+
 [Augmented Data links]
 
 <br>
