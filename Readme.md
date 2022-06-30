@@ -16,11 +16,15 @@
 
 ✔ 축산 공공 데이터의 활용 방안 확대
 
+<br>
+<br>
+
 ## Data Preprocessing
 
 [Augmented Data links]
 
-
+<br>
+<br>
 ## Modeling
 
 
