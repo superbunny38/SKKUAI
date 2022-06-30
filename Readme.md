@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://www.ikbn.news/data/photos/20220519/art_16520288400196_9fb8a8.png" width="500" height="600">
+  <img src="http://www.ikbn.news/data/photos/20220519/art_16520288400196_9fb8a8.png" width="50" height="50">
 </p>
 
 <h2 align="center"> <strong>2022 인공지능 온라인 경진 대회</strong> </h2>
