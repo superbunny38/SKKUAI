@@ -5,6 +5,8 @@
 
 #### **과제 설명**
 
+![Untitled](https://user-images.githubusercontent.com/48243487/176602246-030edf7b-369d-4be0-8b41-f56583c6ff64.png)
+
 ✔ 소고기 도축 이미지를 보고 등급을 분류하는 문제
 
 #### **추진배경**
