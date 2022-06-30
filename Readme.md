@@ -27,6 +27,7 @@
 - Mixup
 - Combinations of augmentation methods (kornia & pytorch)
 
+<br>
 **Note**:
 Although Cutmix led to considerable enhancement in model's performace, combinations of augmentations didn't always lead to increase in test accuracy.
 Also, as it was easier to insert code in training rather than making an independent dataset with cutmix or mixup method, we did not make independent dataset for those two methods.
