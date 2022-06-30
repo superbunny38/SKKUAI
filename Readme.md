@@ -43,6 +43,10 @@ Evaluation Metrics: Weighted Kappa Score
 
 Methodology | Test accuracy|
 --- | --- |
-Cutmix+ | 0 |
+Cutmix+AlexNet | 0 |
 --- | --- | 
-Attempt | #1 |
+Model2 | 49 |
+--- | --- | 
+Model3 | 54 |
+--- | --- | 
+Model4 | 11 |
