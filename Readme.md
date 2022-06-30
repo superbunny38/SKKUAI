@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/48243487/176605818-b07e52bd-f9d7-4e61-b779-890c41217a1c.png)
+
 
 <h2 align="center"> <strong>2022 인공지능 온라인 경진 대회</strong> </h2>
 
