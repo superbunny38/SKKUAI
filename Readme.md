@@ -27,8 +27,18 @@
 - Mixup
 - Combinations of augmentation methods (kornia & pytorch)
 
+Note:
+Although Cutmix led to considerable enhancement in model's performace, combinations of augmentations didn't always lead to increase in test accuracy.
+Also, as it was easier to insert code in training rather than making an independent dataset with cutmix or mixup method, we did not make independent dataset for those two methods.
 
 [Augmented Data links]
+
+| Augmentation method  | links |
+| ------------- | ------------- |
+| Horizontal Flip + Color Jitter  | [google drive link](https://drive.google.com/file/d/1gKT7zqmfNoD965EU1xwtg-q6rMMsH44K/view?usp=sharing)  |
+| Grayscale + Vertical Flip | [google drive link](https://drive.google.com/file/d/1-NfobpSD6s9bSEUoddT2gKfuH_uTnwNP/view?usp=sharing)|
+| Center Crop + Color Jitter + Random Erase | [google drive link](https://drive.google.com/file/d/1-MEVLznocCb8chCK8wDRGWbiJ1iWv6UH/view?usp=sharing)  |
+| Content Cell  | [google drive link]() |
 
 <br>
 <br>
@@ -39,6 +49,7 @@
 - Sharpest Aware Minimization ([SAM](https://github.com/davda54/sam))
 
 # Results
+
 Evaluation Metrics: Weighted Kappa Score
 
 | Methodology  | Test Accuracy |
