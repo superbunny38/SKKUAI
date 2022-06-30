@@ -36,12 +36,14 @@
 ## Modeling
 
 - AlexNet
-- SAM ()
+- Sharpest Aware Minimization ([SAM](https://github.com/davda54/sam))
 
 # Results
 Evaluation Metrics: Weighted Kappa Score
 
 | Methodology  | Test Accuracy |
 | ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
