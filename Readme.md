@@ -34,4 +34,4 @@
 
 
 # Results
-evaluation metrics: Weighted Kappa Score
+Evaluation Metrics: Weighted Kappa Score
