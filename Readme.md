@@ -35,7 +35,8 @@
 
 ## Modeling
 
-
+- AlexNet
+- SAM ()
 
 # Results
 Evaluation Metrics: Weighted Kappa Score
