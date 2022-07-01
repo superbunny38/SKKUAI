@@ -6,6 +6,7 @@
 
 ### [Task: 소고기 이미지를 통한 등급 분류 문제](https://aichallenge.or.kr/competition/detail/1/task/2/taskInfo)
 #### Team Name: SKKUAI
+#### Final Ranking: 16th (top 17%)
 
 #### **과제 설명**
 
@@ -56,7 +57,22 @@ Evaluation Metrics: Weighted Kappa Score
 
 | Methodology  | Test Accuracy |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| WideResNet+SAM  | 0.218  |
+| RseNet101 | 0.865  |
+| EfficientNet  | 0.914  |
+| SpiralNet-ResNet  | 0.905  |
+| ResNet34+Endsemble  | 0.727  |
+| Transformer (Backbone: ResNet50)  | 0.906  |
+| WideResNet+Ensemble  | 0.942  |
+| EfficientNet with augmentation | 0.930  |
+| EfficientNet + Augmentation + Cutmix  | 0.94  |
+| EfficientNet + cutmix  | 0.932 |
+| EfficientNet + Augmentation + Cutmix + lr=1e-03, epoch = 150  | 0.957 |
+| AlexNet+Semi-supervised  | 0.953  |
+| AlexNet+Cutmix+Mixup  | 0.936  |
+| EfficientNet+cutmix+mixup+color histogram (w/o regularization)  | 0.943  |
+| EfficientNet+all augmented data  | 0.952  |
+| Ensemble+augmentation  | 0.913  |
+| Snapshot Ensemble  | 0.931  |
+
+**Insight**: Not all models' performance was improved by large augmented data. And all models faced overfitting, with training accuracy reaching 100%, and yet validation accuracy converging below 100%.
