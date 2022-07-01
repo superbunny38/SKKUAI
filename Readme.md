@@ -24,6 +24,10 @@
 <br>
 
 ## Data Preprocessing
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48243487/176877307-2321c6e1-302b-4dff-9e1e-f8975c6d99b6.JPG" width="200" height="300">
+</p>
+
 - Cutmix
 - Mixup
 - Combinations of augmentation methods (kornia & pytorch)
