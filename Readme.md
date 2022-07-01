@@ -96,16 +96,16 @@ Evaluation Metrics: Weighted Kappa Score
 
 **WideResNet 101**
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48243487/176878012-6e71b61c-eb54-4ef9-80c4-8dc894626d30.png" width="350" height="400">
+  <img src="https://user-images.githubusercontent.com/48243487/176878012-6e71b61c-eb54-4ef9-80c4-8dc894626d30.png" width="500" height="500">
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48243487/176878156-d9ee730d-e18e-4b68-a351-f66fb2029b3d.png" width="350" height="400">
+  <img src="https://user-images.githubusercontent.com/48243487/176878156-d9ee730d-e18e-4b68-a351-f66fb2029b3d.png" width="500" height="500">
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48243487/176878316-94da3103-cf02-4c8d-af74-db8c0a8e7daf.png" width="350" height="400">
+  <img src="https://user-images.githubusercontent.com/48243487/176878316-94da3103-cf02-4c8d-af74-db8c0a8e7daf.png" width="500" height="500">
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48243487/176878336-06b2eedc-246a-41e4-8884-dd8674282ec4.png" width="350" height="400">
+  <img src="https://user-images.githubusercontent.com/48243487/176878336-06b2eedc-246a-41e4-8884-dd8674282ec4.png" width="500" height="500">
 </p>
 
 
