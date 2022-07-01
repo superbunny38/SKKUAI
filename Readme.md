@@ -41,7 +41,15 @@ Also, as it was easier to insert code in training rather than making an independ
 | Horizontal Flip + Color Jitter  | link  |
 | Grayscale + Vertical Flip | link|
 | Center Crop + Color Jitter + Random Erase | link  |
-| Content Cell  | link |
+| Horizontal Flip + Random Rotation  | link |
+| Random Vertical Flip + Rotation  | link |
+| Random Vertical Flip + Center Crop  | link |
+| Random Vertical Flip + Color Jitter  | link |
+| Cutmix  | link |
+| Mixup  | link |
+
+
+**Note**: Currently, the links to datasets are not allowed due to the policy of competition.
 
 <br>
 <br>
