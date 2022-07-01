@@ -37,10 +37,10 @@ Also, as it was easier to insert code in training rather than making an independ
 
 | Augmentation method  | links |
 | ------------- | ------------- |
-| Horizontal Flip + Color Jitter  | [google drive link](https://drive.google.com/file/d/1gKT7zqmfNoD965EU1xwtg-q6rMMsH44K/view?usp=sharing)  |
-| Grayscale + Vertical Flip | [google drive link](https://drive.google.com/file/d/1-NfobpSD6s9bSEUoddT2gKfuH_uTnwNP/view?usp=sharing)|
-| Center Crop + Color Jitter + Random Erase | [google drive link](https://drive.google.com/file/d/1-MEVLznocCb8chCK8wDRGWbiJ1iWv6UH/view?usp=sharing)  |
-| Content Cell  | [google drive link]() |
+| Horizontal Flip + Color Jitter  | link  |
+| Grayscale + Vertical Flip | link|
+| Center Crop + Color Jitter + Random Erase | link  |
+| Content Cell  | link |
 
 <br>
 <br>
