@@ -64,7 +64,13 @@ Also, as it was easier to insert code in training rather than making an independ
 
 - AlexNet
 - Sharpest Aware Minimization ([SAM](https://github.com/davda54/sam))
+- EfficientNet
+- ResNet Series
+- WideResNet
+- Contrastive Learning (simclr pretrained weights)
 
+<br>
+<br>
 # Results in numbers
 
 Evaluation Metrics: Weighted Kappa Score
