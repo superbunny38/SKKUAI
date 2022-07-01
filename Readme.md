@@ -110,8 +110,14 @@ Evaluation Metrics: Weighted Kappa Score
 
 
 **EfficientNet b4**
-![train_confusion_effnet](https://user-images.githubusercontent.com/48243487/176878558-74b5dbc0-481a-4ba4-bea3-dd15dcdcf30f.png)
-![val_confusion_effnet](https://user-images.githubusercontent.com/48243487/176878587-d5a3227c-2c63-4a54-be73-492c447ee09b.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48243487/176878558-74b5dbc0-481a-4ba4-bea3-dd15dcdcf30f.png" width="500" height="500">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48243487/176878587-d5a3227c-2c63-4a54-be73-492c447ee09b.png" width="500" height="500">
+</p>
 
 
 
