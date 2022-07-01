@@ -33,7 +33,7 @@
 **Note**:
 Although Cutmix led to considerable enhancement in model's performace, combinations of augmentations didn't always lead to increase in test accuracy.
 Also, as it was easier to insert code in training rather than making an independent dataset with cutmix or mixup method, we did not make independent dataset for those two methods.
-
+<br>
 
 
 | Augmentation method  | links |
@@ -47,6 +47,7 @@ Also, as it was easier to insert code in training rather than making an independ
 | Random Vertical Flip + Color Jitter  | link |
 | Cutmix  | link |
 | Mixup  | link |
+
 
 
 **Note**: Currently, the links to datasets are not allowed due to the policy of competition.
