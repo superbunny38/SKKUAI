@@ -65,7 +65,7 @@ Also, as it was easier to insert code in training rather than making an independ
 - AlexNet
 - Sharpest Aware Minimization ([SAM](https://github.com/davda54/sam))
 
-# Results
+# Results in numbers
 
 Evaluation Metrics: Weighted Kappa Score
 
@@ -90,3 +90,22 @@ Evaluation Metrics: Weighted Kappa Score
 | Snapshot Ensemble  | 0.931  |
 
 **Insight**: Not all models' performance was improved by large augmented data. And all models faced overfitting, with training accuracy reaching 100%, and yet validation accuracy converging below 100%.
+
+
+# Result Analyis
+
+**WideResNet 101**
+![train_confusion_wideresnet](https://user-images.githubusercontent.com/48243487/176878012-6e71b61c-eb54-4ef9-80c4-8dc894626d30.png)
+![val_confusion_wideresnet](https://user-images.githubusercontent.com/48243487/176878156-d9ee730d-e18e-4b68-a351-f66fb2029b3d.png)
+![wide_train_acc](https://user-images.githubusercontent.com/48243487/176878316-94da3103-cf02-4c8d-af74-db8c0a8e7daf.png)
+![wide_val_acc](https://user-images.githubusercontent.com/48243487/176878336-06b2eedc-246a-41e4-8884-dd8674282ec4.png)
+
+**EfficientNet b4**
+![train_confusion_effnet](https://user-images.githubusercontent.com/48243487/176878558-74b5dbc0-481a-4ba4-bea3-dd15dcdcf30f.png)
+![val_confusion_effnet](https://user-images.githubusercontent.com/48243487/176878587-d5a3227c-2c63-4a54-be73-492c447ee09b.png)
+
+
+
+
+
+
