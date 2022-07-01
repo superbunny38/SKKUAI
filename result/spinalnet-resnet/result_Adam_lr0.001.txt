@@ -1,0 +1,44 @@
+Epoch 0/14
+----------
+train Loss: 1.4017 Acc: 0.3294
+val Loss: 1.3406 Acc: 0.3700
+test Loss: 1.3001 Acc: 0.4070
+
+Epoch 1/14
+----------
+train Loss: 1.3295 Acc: 0.3583
+val Loss: 1.3534 Acc: 0.3556
+EarlyStopping counter: 1 out of 7
+
+Epoch 2/14
+----------
+train Loss: 1.2952 Acc: 0.3916
+val Loss: 1.3658 Acc: 0.3772
+test Loss: 1.3366 Acc: 0.3680
+
+Epoch 3/14
+----------
+train Loss: 1.2823 Acc: 0.4068
+val Loss: 1.2960 Acc: 0.3911
+test Loss: 1.2708 Acc: 0.4100
+
+Epoch 4/14
+----------
+train Loss: 1.2604 Acc: 0.4128
+val Loss: 1.2819 Acc: 0.4122
+test Loss: 1.2748 Acc: 0.3850
+
+Epoch 5/14
+----------
+train Loss: 1.2457 Acc: 0.4297
+val Loss: 1.3963 Acc: 0.3967
+EarlyStopping counter: 1 out of 7
+
+Epoch 6/14
+----------
+train Loss: 1.2350 Acc: 0.4389
+val Loss: 1.4036 Acc: 0.3244
+EarlyStopping counter: 2 out of 7
+
+Epoch 7/14
+----------
