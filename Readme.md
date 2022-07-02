@@ -1,7 +1,7 @@
 
 <h2 align="center"> <strong>2022 인공지능 온라인 경진 대회</strong> </h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48243487/177003058-bafa4371-d4e0-4630-a44e-7925bdfc5cd7.jpg" width="350" height="450">
+  <img src="https://user-images.githubusercontent.com/48243487/177003289-038ff31e-3459-49c3-8c64-c3c51b47bcfd.jpg" width="350" height="450">
 </p>
 
 ### [Task: 소고기 이미지를 통한 등급 분류 문제](https://aichallenge.or.kr/competition/detail/1/task/2/taskInfo)
