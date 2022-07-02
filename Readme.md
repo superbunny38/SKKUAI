@@ -71,6 +71,7 @@ Also, as it was easier to insert code in training rather than making an independ
 
 <br>
 <br>
+
 # Results in numbers
 
 Evaluation Metrics: Weighted Kappa Score
