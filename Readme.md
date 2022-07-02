@@ -129,6 +129,6 @@ Evaluation Metrics: Weighted Kappa Score
 
 
 
-**Note**: Contact via github accounts in collaborators, if any issue.
+**Note**: Contact via github accounts in **contributors**, if any issue.
 
 
