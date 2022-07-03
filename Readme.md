@@ -105,7 +105,7 @@ Evaluation Metrics: Weighted Kappa Score
 
 # Result Analyis in Visualization
 
-**Note**: Every accuracy or error rate shown below are based on standard accuracy, and we noted that when we submit our submission file, and access our submission based on weighted Kappa Score, which takes the relative distance between labels into consideration, the accuracy is calculated higher than ours.
+**Note**: Every accuracy or error rate shown below are based on standard accuracy, and we noted that when we submit our submission file, and assess our submission based on weighted Kappa Score, which takes the relative distance between labels into consideration, the accuracy is calculated higher than ours.
 
 **Efficient Net**
 <p align="center">
