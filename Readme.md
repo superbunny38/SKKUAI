@@ -100,7 +100,14 @@ Evaluation Metrics: Weighted Kappa Score
 **Insight**: Not all models' performance was improved by large augmented data. And all models faced overfitting, with training accuracy reaching 100%, and yet validation accuracy converging below 100%.
 
 
-# Result Analyis
+# Result Analyis in Visualization
+
+**Note**: Every accuracy or error rate shown below are based on standard accuracy, and we noted that when we submit our submission file, and access our submission based on weighted Kappa Score, which takes the relative distance between labels into consideration, the accuracy is calculated higher than ours.
+
+**Efficient Net**
+![alex_net_aug](https://user-images.githubusercontent.com/48243487/177024171-dba390ec-b506-400a-99f6-918ba3d5a16a.JPG)
+![alex_net](https://user-images.githubusercontent.com/48243487/177024194-79467760-2683-4212-a785-cfadbdbb6d83.JPG)
+
 
 **WideResNet 101**
 <p align="center">
