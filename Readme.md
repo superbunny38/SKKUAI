@@ -118,24 +118,9 @@ Evaluation Metrics: Weighted Kappa Score
 **Color histogram info.**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48243487/177067633-4b79a018-d074-4d2d-9a23-ee38b297dca8.png" width="500" height="500">
+  <img src="https://user-images.githubusercontent.com/48243487/177067633-4b79a018-d074-4d2d-9a23-ee38b297dca8.png">
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48243487/177067597-b315b554-c840-4edf-aaf6-f64bdfe1431c.png" width="500" height="500">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48243487/177067527-0ea8f8e7-7fbf-40aa-ab0a-d0c49a94efc0.png" width="500" height="500">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48243487/177067682-91070b80-57a5-444e-a40a-81d00465f874.png" width="500" height="500">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48243487/177067699-315972f7-f273-470b-bed3-5a9e3ad0612e.png" width="500" height="500">
-</p>
 
 
 
