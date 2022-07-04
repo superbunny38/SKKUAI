@@ -108,6 +108,9 @@ Evaluation Metrics: Weighted Kappa Score
 **Note**: Every accuracy or error rate shown below are based on standard accuracy, and we noted that when we submit our submission file, and assess our submission based on weighted Kappa Score, which takes the relative distance between labels into consideration, the accuracy is calculated higher than ours.
 
 **EfficientNet+Augmentated Data + Cutmix + Mixup + Histogram**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48243487/177065793-6d372420-0829-4371-bba8-b064f6c22de7.png" width="500" height="500">
+</p>
 
 
 **Efficient Net**
