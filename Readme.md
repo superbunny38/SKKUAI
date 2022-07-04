@@ -129,12 +129,6 @@ Evaluation Metrics: Weighted Kappa Score
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48243487/176878156-d9ee730d-e18e-4b68-a351-f66fb2029b3d.png" width="500" height="500">
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48243487/176878316-94da3103-cf02-4c8d-af74-db8c0a8e7daf.png" width="500" height="500">
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48243487/176878336-06b2eedc-246a-41e4-8884-dd8674282ec4.png" width="500" height="500">
-</p>
 
 
 **EfficientNet b4**
