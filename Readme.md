@@ -69,6 +69,7 @@ Also, as it was easier to insert code in training rather than making an independ
 - ResNet Series
 - WideResNet
 - Contrastive Learning (simclr pretrained weights)
+- Consideration of Color Histogram
 
 <br>
 <br>
@@ -107,10 +108,35 @@ Evaluation Metrics: Weighted Kappa Score
 
 **Note**: Every accuracy or error rate shown below are based on standard accuracy, and we noted that when we submit our submission file, and assess our submission based on weighted Kappa Score, which takes the relative distance between labels into consideration, the accuracy is calculated higher than ours.
 
-**EfficientNet+Augmentated Data + Cutmix + Mixup + Histogram**
+
+**EfficientNet+Augmentated Data + Cutmix + Mixup + Color Histogram**
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48243487/177065793-6d372420-0829-4371-bba8-b064f6c22de7.png" width="800" height="500">
 </p>
+
+
+**Color histogram info.**
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48243487/177067633-4b79a018-d074-4d2d-9a23-ee38b297dca8.png" width="500" height="500">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48243487/177067597-b315b554-c840-4edf-aaf6-f64bdfe1431c.png" width="500" height="500">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48243487/177067527-0ea8f8e7-7fbf-40aa-ab0a-d0c49a94efc0.png" width="500" height="500">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48243487/177067682-91070b80-57a5-444e-a40a-81d00465f874.png" width="500" height="500">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48243487/177067699-315972f7-f273-470b-bed3-5a9e3ad0612e.png" width="500" height="500">
+</p>
+
 
 
 **Efficient Net**
@@ -120,6 +146,7 @@ Evaluation Metrics: Weighted Kappa Score
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48243487/177024194-79467760-2683-4212-a785-cfadbdbb6d83.JPG" width="500" height="500">
 </p>
+
 
 
 **WideResNet 101**
