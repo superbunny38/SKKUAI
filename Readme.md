@@ -109,7 +109,7 @@ Evaluation Metrics: Weighted Kappa Score
 
 **EfficientNet+Augmentated Data + Cutmix + Mixup + Histogram**
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48243487/177065793-6d372420-0829-4371-bba8-b064f6c22de7.png" width="500" height="500">
+  <img src="https://user-images.githubusercontent.com/48243487/177065793-6d372420-0829-4371-bba8-b064f6c22de7.png" width="800" height="500">
 </p>
 
 
